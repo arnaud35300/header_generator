@@ -26,16 +26,16 @@ OPTIONS:
 Examples:
 ```
 Run in current directory:
-	bash $PROGNAME
+	bash header.sh
 
 Run in specifics directories:
-	bash $PROGNAME [dir1] [dir2]
+	bash header.sh [dir1] [dir2]
 
 Run with interactive and verbose mode:
-	bash $PROGNAME --interactive --verbose
+	bash header.sh --interactive --verbose
 
 Run this help:
-	bash $PROGNAME --help
+	bash header.sh --help
   ```
   
 Online help:
